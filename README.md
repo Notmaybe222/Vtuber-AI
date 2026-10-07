@@ -1,5 +1,5 @@
 # Vtuber-AI
-This project is inspired by the work of shioridotdev. Special thanks to the creators of the technologies used in this project including VoiceVox Engine, DeepL, Whisper OpenAI, and VtubeStudio.
+This project is inspired by the work of shioridotdev. Special thanks to the creators of the technologies used in this project 
 
 ## Technology in-use in this program
 Pygame for UI, TTS, GeminiAPI, DiscordBot, ElevenLab Speak-to-text and Pytchat for livestream on youtube
